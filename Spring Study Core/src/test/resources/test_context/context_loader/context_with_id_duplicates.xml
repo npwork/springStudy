@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<beans>
+		<bean id="cusomerService1" class="service.CustomerServiceImpl" />
+		<bean id="cusomerService1" class="service.CustomerServiceImpl" />
+	</beans>
+</root>
